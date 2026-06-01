@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppInfo
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "8836273594:AAENCP6gYCLHwYhPjmLPpMpwI7M29xd7jcc"
+TOKEN = "8836273594:AAH6F1PtB1LG0nLR-Ofe-Jvv_9tCMaecLQY"
 WEB_APP_URL = "https://walefalham-ctrl.github.io/Aziz-store/"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
